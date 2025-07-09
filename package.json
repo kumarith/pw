@@ -17,8 +17,8 @@
     "url": "https://github.com/kumarith/pw/issues"
   },
   "homepage": "https://github.com/kumarith/pw#readme",
-  "description": "",
   "devDependencies": {
     "@playwright/test": "^1.53.2"
-  }
+  },
+  "description": ""
 }
